@@ -1,0 +1,51 @@
+[
+  {
+    "id": "Q1",
+    "soru": "Veri setinde toplam kaç bireysel müşteri kaydı bulunuyor?",
+    "beklenen_cevap": 4000,
+    "tip": "sayisal",
+    "kaynak_tablo": "customers.csv"
+  },
+  {
+    "id": "Q2",
+    "soru": "Veri setinde toplam kaç firma kaydı bulunuyor?",
+    "beklenen_cevap": 1200,
+    "tip": "sayisal",
+    "kaynak_tablo": "companies.csv"
+  },
+  {
+    "id": "Q3",
+    "soru": "Şu anda kaç kredi 'Aktif' durumda?",
+    "beklenen_cevap": 4075,
+    "tip": "sayisal",
+    "kaynak_tablo": "loans.csv"
+  },
+  {
+    "id": "Q4",
+    "soru": "Bireysel müşterilerin kredilerinde temerrüt oranı yüzde kaçtır (temerrut_flag oranı)?",
+    "beklenen_cevap": 6.67,
+    "tip": "sayisal_yuzde",
+    "kaynak_tablo": "loans.csv"
+  },
+  {
+    "id": "Q5",
+    "soru": "Firmalar arasında en çok temsil edilen sektör hangisidir?",
+    "beklenen_cevap": "Finans ve Sigorta",
+    "tip": "kategorik",
+    "kaynak_tablo": "companies.csv"
+  },
+  {
+    "id": "Q6",
+    "soru": "Şu anda kaç firmanın aktif ihale yasağı bulunmaktadır?",
+    "beklenen_cevap": 21,
+    "tip": "sayisal",
+    "kaynak_tablo": "sanctions.csv"
+  },
+  {
+    "id": "Q7",
+    "soru": "Firma kredilerinde temerrüt oranı en yüksek olan sektör hangisidir?",
+    "beklenen_cevap": "Tarım",
+    "tip": "kategorik",
+    "kaynak_tablo": "loans.csv + companies.csv"
+  }
+]

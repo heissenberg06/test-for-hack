@@ -1,0 +1,73 @@
+sanction_id,company_id,karar_tarihi,yasak_suresi_yil,yasak_bitis_tarihi,gerekce,aktif_mi,resmi_gazete_sayi
+S0001,F01179,2025-10-27,1,2026-10-27,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32082
+S0002,F00866,2024-07-25,1,2025-07-25,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32585
+S0003,F00102,2023-08-09,3,2026-08-09,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32287
+S0004,F00440,2024-08-09,2,2026-08-09,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32040
+S0005,F00059,2023-07-16,3,2026-07-16,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32442
+S0006,F01121,2023-02-18,2,2025-02-18,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32114
+S0007,F00324,2022-04-03,3,2025-04-03,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32690
+S0008,F00975,2023-06-22,1,2024-06-22,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32323
+S0009,F00412,2025-02-07,3,2028-02-07,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,True,32416
+S0010,F00856,2026-05-17,1,2027-05-17,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32609
+S0011,F00821,2023-10-13,3,2026-10-13,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32319
+S0012,F00045,2022-05-15,2,2024-05-15,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32132
+S0013,F00050,2022-10-11,1,2023-10-11,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,31980
+S0014,F00850,2023-12-11,1,2024-12-11,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,31958
+S0015,F00241,2025-11-13,3,2028-11-13,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32457
+S0016,F00171,2022-12-05,3,2025-12-05,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32877
+S0017,F00524,2025-08-29,2,2027-08-29,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32221
+S0018,F00766,2022-11-07,2,2024-11-07,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32583
+S0019,F00839,2022-10-26,1,2023-10-26,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32735
+S0020,F00424,2022-04-13,1,2023-04-13,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32764
+S0021,F00381,2025-11-07,3,2028-11-07,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,True,32601
+S0022,F00610,2022-10-19,3,2025-10-19,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32438
+S0023,F00677,2023-09-22,1,2024-09-22,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32655
+S0024,F00345,2023-09-10,1,2024-09-10,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,31967
+S0025,F00110,2023-07-04,2,2025-07-04,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32803
+S0026,F00278,2024-07-06,3,2027-07-06,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,True,32078
+S0027,F00678,2026-02-13,1,2027-02-13,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,True,32470
+S0028,F00571,2023-10-19,1,2024-10-19,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32532
+S0029,F00359,2025-04-25,1,2026-04-25,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32875
+S0030,F00599,2025-11-22,3,2028-11-22,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,True,32777
+S0031,F00391,2023-10-03,1,2024-10-03,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32367
+S0032,F00894,2024-04-26,1,2025-04-26,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,31912
+S0033,F00693,2023-04-11,1,2024-04-11,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32101
+S0034,F00728,2025-11-21,2,2027-11-21,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32824
+S0035,F00363,2023-04-30,2,2025-04-30,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32624
+S0036,F00597,2023-10-03,2,2025-10-03,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32287
+S0037,F00428,2023-06-24,1,2024-06-24,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32739
+S0038,F00071,2024-12-19,1,2025-12-19,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32246
+S0039,F00322,2025-08-27,2,2027-08-27,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,True,32317
+S0040,F00653,2024-03-06,1,2025-03-06,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32566
+S0041,F01066,2025-12-16,3,2028-12-16,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,32074
+S0042,F00108,2025-08-22,1,2026-08-22,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32192
+S0043,F01109,2022-08-28,1,2023-08-28,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32041
+S0044,F00356,2023-01-11,1,2024-01-11,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32209
+S0045,F00951,2024-11-21,2,2026-11-21,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,True,32315
+S0046,F00343,2024-08-23,3,2027-08-23,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,True,31917
+S0047,F00355,2022-12-11,1,2023-12-11,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32698
+S0048,F00024,2025-02-11,1,2026-02-11,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,31992
+S0049,F00044,2024-09-07,1,2025-09-07,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32396
+S0050,F00244,2023-09-17,3,2026-09-17,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,True,31966
+S0051,F00738,2026-04-09,2,2028-04-09,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,True,32882
+S0052,F01136,2026-01-23,3,2029-01-23,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,True,32485
+S0053,F00368,2023-12-01,1,2024-12-01,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32031
+S0054,F00164,2022-09-21,3,2025-09-21,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32811
+S0055,F01116,2022-02-14,1,2023-02-14,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32800
+S0056,F00333,2023-06-16,2,2025-06-16,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32602
+S0057,F00989,2025-10-03,2,2027-10-03,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,True,32824
+S0058,F01173,2024-02-17,3,2027-02-17,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,True,32500
+S0059,F01002,2025-11-06,3,2028-11-06,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,True,32221
+S0060,F00378,2022-01-12,1,2023-01-12,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,32399
+S0061,F00310,2025-03-05,1,2026-03-05,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,31959
+S0062,F00156,2025-03-10,1,2026-03-10,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32243
+S0063,F00211,2022-03-12,2,2024-03-12,Sözleşme şartlarına aykırı davranış nedeniyle yasaklama,False,32541
+S0064,F00087,2023-07-22,3,2026-07-22,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32045
+S0065,F00169,2023-07-20,2,2025-07-20,Taahhüdünü yerine getirmeme nedeniyle geçici yasaklama,False,31946
+S0066,F00995,2023-09-14,2,2025-09-14,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32898
+S0067,F00052,2022-08-26,1,2023-08-26,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32016
+S0068,F00439,2023-08-27,3,2026-08-27,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32817
+S0069,F00550,2022-07-03,1,2023-07-03,Sahte belge düzenleme nedeniyle ihalelerden yasaklama,False,32192
+S0070,F00491,2022-05-02,1,2023-05-02,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32178
+S0071,F00426,2022-12-01,3,2025-12-01,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32222
+S0072,F00136,2022-01-16,1,2023-01-16,4735 Sayılı Kanun'un 25. maddesi uyarınca ihalelere fesat karıştırma,False,32859
