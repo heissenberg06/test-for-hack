@@ -1,0 +1,28 @@
+# --- Temel ---
+python-dotenv
+pydantic
+pydantic-settings
+
+# --- Veri ---
+pandas
+numpy
+duckdb
+
+# --- LLM / Agent ---
+openai
+langchain
+langchain-openai
+langgraph
+
+# --- RAG / Vektör DB ---
+chromadb
+
+# --- Backend / API ---
+fastapi
+uvicorn[standard]
+
+# --- Arayüz ---
+streamlit
+
+# --- Sentetik veri üretimi (zaten kullandık) ---
+faker

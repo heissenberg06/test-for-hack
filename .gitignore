@@ -1,0 +1,14 @@
+# --- Ortam / secrets ---
+.env
+
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+
+# --- Vektör DB / cache dosyaları (ileride oluşacak) ---
+chroma_db/
+*.duckdb
+
+# --- macOS ---
+.DS_Store
